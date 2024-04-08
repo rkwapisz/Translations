@@ -1187,6 +1187,8 @@
   "SETTINGS_ESP": "ESP Enabled",
   "SETTINGS_ESP_BOX": "Box ESP",
   "SETTINGS_ESP_BOX_RENDER_DISTANCE": "Box Render Distance (min, max)",
+  "SETTINGS_ESP_BONE": "Bone ESP",
+  "SETTINGS_ESP_BONE_RENDER_DISTANCE": "Bone Render Distance (min, max)",
   "SETTINGS_ESP_COLORS": "ESP Colors (RGBA)",
   "SETTINGS_ESP_COLOR_W_DISTANCE": "Should ESP Color Change with Distance",
   "SETTINGS_ESP_DISTANCE_THRESHOLD": "Distance threshold (min, max)",
