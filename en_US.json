@@ -146,8 +146,8 @@
   "BACKEND_LOOPED_VEHICLE_SPEEDO_METER_SHOW_CURRENT_GEAR_DESC": "Adds the current gear the vehicle is in to the speedo meter.",
   "BACKEND_LOOPED_VEHICLE_TURN_SIGNALS_HELP": "Manual: J = Left, L = Right, K = Toggle Hazzards",
   "BACKEND_LOOPED_WEAPONS_AIMBOT_DESC": "Aims for you.",
-  "BACKEND_LOOPED_WEAPONS_AIMBOT_NONHITSCAN": "Non-Hitscan"
-  "BACKEND_LOOPED_WEAPONS_AIMBOT_NONHITSCAN_DESC": "Aimbot will be active for throwables and non-hitscan weapons like RPGs and grenade launchers."
+  "BACKEND_LOOPED_WEAPONS_AIMBOT_NONHITSCAN": "Non-Hitscan",
+  "BACKEND_LOOPED_WEAPONS_AIMBOT_NONHITSCAN_DESC": "Aimbot will be active for throwables and non-hitscan weapons like RPGs and grenade launchers.",
   "BACKEND_LOOPED_WEAPONS_AIM_AT_ENEMY": "Enemy",
   "BACKEND_LOOPED_WEAPONS_AIM_AT_ENEMY_DESC": "Aimbot will only target police and NPCS that are enemies.",
   "BACKEND_LOOPED_WEAPONS_AIM_AT_NPC_DESC": "Aimbot will target NPC entities.",
