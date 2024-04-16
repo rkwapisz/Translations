@@ -1212,6 +1212,7 @@
   "SETTINGS_ESP_PLAYER_GOD_MODE": "Show Player Godmode",
   "SETTINGS_ESP_PLAYER_HEALTH": "Show Player Health",
   "SETTINGS_ESP_PLAYER_NAME": "Show Player Name",
+  "SETTINGS_ESP_PLAYER_VEHICLE": "Show Player Vehicle",
   "SETTINGS_ESP_PLAYER_WEAPON": "Show Player Weapon",
   "SETTINGS_ESP_SCALE_ARMOR": "Should Armor bar Scale with Distance",
   "SETTINGS_ESP_SCALE_HEALTH": "Should Health bar Scale with Distance",
