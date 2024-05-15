@@ -480,6 +480,7 @@
   "ESP_BULLET": " BULLET",
   "ESP_EXPLOSION": " EXPLOSION",
   "ESP_GOD": "GOD",
+  "ESP_VEH_GOD": "VEH GOD",
   "EXIT_TRAIN": "Exit Train",
   "EXIT_TRAIN_DESC": "Exit the player-occupied train",
   "EXPLODE_ALL": "Explode Everyone",
